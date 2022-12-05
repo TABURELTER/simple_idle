@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ideMY:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ideMY_jar</output-path>
+    <root id="archive" name="ideMY.jar">
+      <element id="module-output" name="ideMY" />
+    </root>
+  </artifact>
+</component>
